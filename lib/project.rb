@@ -1,5 +1,7 @@
 class Project
-attr_accessor :nam3e
+attr_accessor :name
 
+def initialize()
+end
 
 end
